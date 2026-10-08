@@ -74,9 +74,9 @@
   </tr>
   <tr>
     <td><strong>프론트엔드</strong></td>
-    <td>React</td>
+    <td>React18, Javascript</td>
     <td>
-      주요 라이브러리: Axios, React-Hook-Form
+      주요 라이브러리: Axios, react-router-dom
     </td>
   </tr>
   <tr>
